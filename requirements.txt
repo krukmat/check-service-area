@@ -1,0 +1,7 @@
+Django==1.8.4
+haversine==0.4.5
+googlemaps==2.4.3
+ipython
+ipdb
+mock==1.0.1
+coverage==4.1b2
